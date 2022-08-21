@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/.vscode
+/venv
+/cogs/.idea
+/cogs/__pycache__/
+push.bat
